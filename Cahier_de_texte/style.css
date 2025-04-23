@@ -1,0 +1,25 @@
+style.css
+/* style.css */
+
+/* Changer la couleur de fond de la scène */
+.root {
+    -fx-background-color: #2e2e2e;
+}
+
+/* Changer la couleur du texte pour les labels */
+.label {
+    -fx-text-fill: #ffffff;
+}
+
+/* Changer la couleur de fond des boutons */
+.button {
+    -fx-background-color: #4CAF50;
+    /* Vert */
+    -fx-text-fill: white;
+}
+
+/* Changer la couleur de fond des champs de texte */
+.text-field {
+    -fx-background-color: #444444;
+    -fx-text-fill: white;
+}
